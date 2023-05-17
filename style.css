@@ -1,0 +1,25 @@
+.container h1{
+    text-align: center;
+}
+
+@media screen and (max-width:912px){
+    .container select{
+        margin-left: 36%;
+    }
+    
+}
+
+@media screen and (max-width:414px){
+    .container select{
+        margin-left: 20%;
+    }
+    
+}
+
+@media screen and (max-width:280px){
+    button{
+        margin-left: 20%;
+        margin-top: 20px;
+    }
+    
+}
